@@ -1,2 +1,3 @@
 # Eric-practice
-Learning to use Githum
+Learning to use Github
+This is cool
